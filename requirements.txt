@@ -2,3 +2,7 @@ pdf2image
 pytesseract
 Pillow
 fpdf
+fuzzywuzzy
+python-Levenshtein
+opencv-python-headless
+numpy
